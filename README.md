@@ -3,10 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsaurabh033&label=Profile%20views&color=0e75b6&style=flat" alt="jainsaurabh033" /> </p>
 
 
-- 🔭 I’m currently working on ** E-kart -Multivendor ecommerce webapp**
-- 💬 Ask me about **anything related to MERN stack and related technologies**
-- 📫 How to reach me **saurabhjain04g@gmail.com**
-
 <div> <a href="https://www.linkedin.com/in/saurabh-jain-b7647a221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/jainsaurabh033" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:saurabhjain04g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
