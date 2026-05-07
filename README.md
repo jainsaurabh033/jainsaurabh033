@@ -14,7 +14,7 @@ I build scalable backend systems, solve real problems, and believe great softwar
 ## 🚀 About Me
 
 - Software Engineer with experience at **Amazon** and **TCS**
-- Strong focus on **Java, Spring Boot, Microservices, AWS**
+- Strong focus on **Java, Spring Boot, Microservices, AWS, ReactJs**
 - Interested in building production-grade backend systems
 - Passionate about **System Design, Low Level Design, and Problem Solving**
 - I value clarity, consistency, and meaningful work over noise
@@ -29,6 +29,7 @@ Learning:
   - Spring Boot
   - Microservices
   - AWS Architecture
+  - ReactJs
   - System Design (LLD + HLD)
 
 Building:
@@ -52,7 +53,7 @@ Improving:
 
 ### Backend
 
-`Spring Boot` `Node.js` `Express.js` `REST APIs` `Microservices`
+`Spring Boot` `REST APIs` `Microservices`
 
 ### Frontend
 
