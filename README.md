@@ -1,35 +1,124 @@
-
+````md
 <h1 align="center">Hi 👋, I'm Saurabh Jain</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsaurabh033&label=Profile%20views&color=0e75b6&style=flat" alt="jainsaurabh033" /> </p>
 
+<h3 align="center">
+Backend Engineer • Java Developer • Problem Solver • System Thinker
+</h3>
 
-<div> <a href="https://www.linkedin.com/in/saurabh-jain-b7647a221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/jainsaurabh033" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:saurabhjain04g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabh-jain-b7647a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="saurabh-jain-b7647a221" height="30" width="40" /></a><a href="https://www.leetcode.com/saurabh033" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="saurabh033" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+I build scalable backend systems, solve real problems, and believe great software should feel simple.
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsaurabh033&layout=compact&theme=dark" alt=jainsaurabh033 />
+---
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jainsaurabh033&theme=dark" alt="jainsaurabh033" /></p>
+## 🚀 About Me
+
+- Software Engineer with experience at **Amazon** and **TCS**
+- Strong focus on **Java, Spring Boot, Microservices, AWS**
+- Interested in building production-grade backend systems
+- Passionate about **System Design, Low Level Design, and Problem Solving**
+- I value clarity, consistency, and meaningful work over noise
+
+---
+
+## ⚡ Current Focus
+
+```yaml
+Learning:
+  - Advanced Java
+  - Spring Boot
+  - Microservices
+  - AWS Architecture
+  - System Design (LLD + HLD)
+
+Building:
+  - Smart Service Desk System
+  - Scalable Backend Projects
+  - Production-grade Architecture
+
+Improving:
+  - Communication
+  - Clear Thinking
+  - Problem Solving
+````
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+`Java` `JavaScript` `TypeScript` `C++` `SQL`
+
+### Backend
+
+`Spring Boot` `Node.js` `Express.js` `REST APIs` `Microservices`
+
+### Frontend
+
+`React.js` `Redux` `HTML` `CSS` `Tailwind CSS`
+
+### Database & Cloud
+
+`MySQL` `MongoDB` `AWS` `DynamoDB` `S3` `Lambda`
+
+### Tools
+
+`Git` `GitHub` `Postman` `Docker` `Linux`
+
+---
+
+## 📌 Featured Projects
+
+### Smart Service Desk System (In Progress)
+
+Production-grade backend project using Java, Spring Boot, AWS, Microservices, and testing with Mockito.
+
+### CartNova (In Progress)
+
+Full-stack scalable eCommerce platform using React, Node.js, MongoDB, and AWS.
+
+### Low-Level-Design Projects  (In Progress)
+
+CLI-based design project focused on OOP, LLD, and real-world system architecture.
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/saurabh-jain-b7647a221">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:saurabhjain04g@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/jainsaurabh033">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://leetcode.com/saurabh033">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+</p>
+
+---
+
+## ✨ Personal Note
+
+I’m not trying to be everywhere.
+
+I’m trying to become someone whose work speaks before he does.
+
+Build well. Think clearly. Stay consistent.
+
+That’s enough.
+
+---
+
+```
+### May the Force Be With You ✨
+
+```
