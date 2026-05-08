@@ -107,16 +107,6 @@ CLI-based design project focused on OOP, LLD, and real-world system architecture
 
 ---
 
-## ✨ Personal Note
-
-I’m not trying to be everywhere.
-
-I’m trying to become someone whose work speaks before he does.
-
-Build well. Think clearly. Stay consistent.
-
-That’s enough.
-
 ---
 
 ```
