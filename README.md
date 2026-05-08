@@ -105,10 +105,6 @@ CLI-based design project focused on OOP, LLD, and real-world system architecture
 </a>
 </p>
 
----
-
----
-
 ```
 ### May the Force Be With You ✨
 
