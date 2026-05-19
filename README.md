@@ -75,7 +75,7 @@ Improving:
 
 Production-grade backend project using Java, Spring Boot, AWS, Microservices, and testing with Mockito.
 
-### CartNova
+### A-Mart
 
 Full-stack scalable eCommerce platform using React, Node.js, MongoDB, and AWS.
 
