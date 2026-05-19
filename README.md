@@ -71,15 +71,15 @@ Improving:
 
 ## 📌 Featured Projects
 
-### Smart Service Desk System (In Progress)
+### Smart Service Desk System
 
 Production-grade backend project using Java, Spring Boot, AWS, Microservices, and testing with Mockito.
 
-### CartNova (In Progress)
+### CartNova
 
 Full-stack scalable eCommerce platform using React, Node.js, MongoDB, and AWS.
 
-### Low-Level-Design Projects  (In Progress)
+### Low-Level-Design Projects 
 
 CLI-based design project focused on OOP, LLD, and real-world system architecture.
 
