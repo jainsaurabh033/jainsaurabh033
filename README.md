@@ -41,17 +41,6 @@ focus:
   - Microservices
   - AWS
   - ReactJs
-
-interests:
-  - Production-grade Backend Systems
-  - System Design
-  - Low Level Design
-  - Problem Solving
-
-philosophy:
-  - Clarity
-  - Consistency
-  - Meaningful Work
 ```
 
 <br clear="right"/>
